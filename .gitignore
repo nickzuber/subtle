@@ -1,0 +1,17 @@
+# Builds & Scripts
+_build
+*.native
+*.exe
+*.pyc
+*.failed
+__reports__
+
+# Others
+.DS_Store
+.!*
+node_modules
+
+# Coq
+*.glob
+*.aux
+*.vo
